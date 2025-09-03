@@ -1,10 +1,9 @@
-# my_project documentation!
+# my_project documentation
 
 ## Description
 
-deee
+This project is a example.
 
 ## Commands
 
 The Makefile contains the central entry points for common tasks related to this project.
-
