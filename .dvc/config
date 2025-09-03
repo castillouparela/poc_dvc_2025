@@ -1,0 +1,4 @@
+[core]
+    remote = dlake
+['remote "dlake"']
+    url = azure://mlops-eia-2025

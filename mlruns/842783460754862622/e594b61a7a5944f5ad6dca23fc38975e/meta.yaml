@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/dcastillo/OneDrive - Universidad EIA/Documentos/Documentos
+  importantes/FlujoMLOps/repo/notebooks/../mlruns/842783460754862622/e594b61a7a5944f5ad6dca23fc38975e/artifacts
+end_time: 1746570251327
+entry_point_name: ''
+experiment_id: '842783460754862622'
+lifecycle_stage: active
+run_id: e594b61a7a5944f5ad6dca23fc38975e
+run_name: rare-whale-232
+run_uuid: e594b61a7a5944f5ad6dca23fc38975e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746570235824
+status: 3
+tags: []
+user_id: dcastillo
